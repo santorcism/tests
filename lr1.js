@@ -34,4 +34,3 @@ describe('matrix_test', function(){
         expect(Mtrx.div(n1, m1)).to.eql( [ [ 1, 2, 3 ], [ 4, 5, 6 ], [ 7, 8, 9 ] ] );
     })
 })
-
